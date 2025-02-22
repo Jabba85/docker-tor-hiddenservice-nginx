@@ -1,6 +1,6 @@
 FROM debian:bullseye
 
-LABEL maintainer="ozeliurs@gmail.com"
+LABEL maintainer="john.connor85T2@proton.me"
 
 # Base packages
 RUN apt-get update && \
